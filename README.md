@@ -18,7 +18,7 @@
    Create a `.env` file in the project directory with your MongoDB URI and JWT secret key.
 
   
-   MONGO_URI="mongodb+srv://<username>:<password>@cluster0.mongodb.net/<database>?retryWrites=true&w=majority"
+   MONGO_URI="mongodb+srv://username:password@cluster0.mongodb.net/<database>?retryWrites=true&w=majority"
    JWT_SECRET="your_jwt_secret_key"
 
 
